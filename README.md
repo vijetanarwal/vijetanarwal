@@ -14,49 +14,36 @@ I'm a passionate **Software Developer** skilled in building both web and mobile 
 
 ## 🛠️ Skills
 
-### 🌐 Frontend Development
-- 🟨 JavaScript
-- Java
-- 🎯 Dart 
-- 💙 Flutter
+## 🧰 Tech Stack
+
+### 🌐 Frontend Development  
+**JavaScript**, **Java**, **Dart**, **EJS (Beginner)**
+
 ---
 
-### 📱 Mobile Development
-- ⚙️ Kotlin
-- 🤖 Jetpack Compose (Beginner)
-- 📱 Kotlin Multiplatform (Intermediate)
-- 🧠 Android SDK
-- 📲 Flutter 
+### 📱 Mobile Development  
+**Kotlin**, **Jetpack Compose (Beginner)**, **Kotlin Multiplatform**, **Android SDK**, **Flutter**
+
 ---
 
-### 🖥️ Backend Development
-- 🟩 Node.js 
-- 🚂 Express.js
-- 🐍 Python
-- 🌐 RESTful APIs 
+### 🖥️ Backend Development  
+**Node.js**, **Express.js**, **Python**, **RESTful APIs (Intermediate)**
+
 ---
 
-### 🛢️ Database
-- 🍃 MongoDB 
-- 🔥 Firebase
+### 🛢️ Database  
+**MongoDB**, **Firebase**
+
 ---
 
-### ☁️ Cloud & DevOps
-- 🐳 Docker 
-- ☁️ AWS (Beginner)
+### ☁️ Cloud & DevOps  
+**Docker**, **AWS (Beginner)**
+
 ---
 
-### 🛠️ Tools & Other Skills
-- 🧰 Git & GitHub (Intermediate)
-- ⚙️ VS Code, Android Studio
-- 🧩 Postman
-- 🧪 Testing & Debugging
----
+### 🛠️ Tools & Other Skills  
+**Git & GitHub**, **Postman**, **VS Code**, **Android Studio**, **Testing & Debugging**
 
-### 📌 Learning Focus Areas
-- 🚧 Jetpack Compose
-- 🌍 AWS
-- 🌐 Building scalable REST APIs
 
   ## 📈 Leetcode Stats
   
