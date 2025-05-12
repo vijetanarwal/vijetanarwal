@@ -2,38 +2,69 @@
 
 I'm a passionate **Software Developer** skilled in building both web and mobile applications. I enjoy creating impactful solutions using modern technologies and contributing to open source.
 
+📱 Alongside web development, I'm also deeply passionate about **Android development**. I've built interactive apps using **Kotlin**, **Java**,  **Kotlin MultiPllatform** .
+
 ## 💼 About Me
 
 - 🎓 B.Tech student exploring real-world tech solutions
 - 🔭 Currently working with **MERN Stack**, **Flutter with Dart**, and **Web3 tools**
 - 🧠 Practicing DSA regularly on [LeetCode](https://leetcode.com/u/vijeta_2110/)
+-  🤝 Looking to contribute to **open-source** and collaborate with developers
 - 💡 Passionate about open-source, startups, and blockchain-powered systems
 
 ## 🛠️ Skills
 
-**Languages:**  
-`Kotlin` `Java` `JavaScript` `HTML` `CSS` `SQL` `Dart`
-
-**Frameworks & Libraries:**  
-`Flutter` (with Dart), `React.js`, `Express.js`, `RoomDB`
-
-**Web Stack (MERN):**  
-- **Frontend:** `React.js`  
-- **Backend:** `Node.js`, `Express.js`  
-- **Database:** `MongoDB`
-
-**Tools & Platforms:**  
-`Android Studio` `Firebase` `Git` `GitHub` `Docker`
-
-
-## 📫 Contact Me
-
-- ✉️ Email: [vijetanarwal4044@gmail.com](mailto:vijetanarwal4044@gmail.com)  
-- 📞 Phone: +91 8278382033  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vijeta-narwal-725781326)  
-- 💻 [GitHub](https://github.com/vijetanarwal)  
-- 🔍 [LeetCode](https://leetcode.com/u/vijeta_2110/)
-
+### 🌐 Frontend Development
+- 🟨 JavaScript
+- Java
+- 🎯 Dart 
+- 💙 Flutter
 ---
+
+### 📱 Mobile Development
+- ⚙️ Kotlin
+- 🤖 Jetpack Compose (Beginner)
+- 📱 Kotlin Multiplatform (Intermediate)
+- 🧠 Android SDK
+- 📲 Flutter 
+---
+
+### 🖥️ Backend Development
+- 🟩 Node.js 
+- 🚂 Express.js
+- 🐍 Python
+- 🌐 RESTful APIs 
+---
+
+### 🛢️ Database
+- 🍃 MongoDB 
+- 🔥 Firebase
+---
+
+### ☁️ Cloud & DevOps
+- 🐳 Docker 
+- ☁️ AWS (Beginner)
+---
+
+### 🛠️ Tools & Other Skills
+- 🧰 Git & GitHub (Intermediate)
+- ⚙️ VS Code, Android Studio
+- 🧩 Postman
+- 🧪 Testing & Debugging
+---
+
+### 📌 Learning Focus Areas
+- 🚧 Jetpack Compose
+- 🌍 AWS
+- 🌐 Building scalable REST APIs
+
+  ## 📈 Leetcode Stats
+  
+
+  ## 📫 Let's Connect!
+
+- 📧 Email: [your.email@example.com](mailto:vijetanarwal4044@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/vijeta-narwal-725781326)
+- 🔍 [LeetCode](https://leetcode.com/u/vijeta_2110/)
 
 *Let's connect and build something meaningful together!*
