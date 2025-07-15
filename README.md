@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 
 Hi! I'm **Vijeta**, an aspiring **Android Developer** currently learning **Kotlin** and exploring **modern Android development**.  
-I’m passionate about building beautiful, real-world mobile apps that solve actual problems. 📱✨
+I’m passionate about building beautiful, real-world mobile apps that solve actual problems. 📱  ✨
 
 Alongside Android, I’ve also explored the **MERN stack** — MongoDB, Express.js, React, Node.js — to build full-stack web apps during my learning journey.  
 Love solving problems, working on cool ideas, and learning through collaboration. 🚀
