@@ -1,3 +1,13 @@
+## 📊 GitHub Stats
+
+![Vijeta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijetanarwal&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijetanarwal&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vijetanarwal&theme=radical)
+
+---
+⭐ **Followers:** 6  👀 **Following:** 8  📦 **Repos:** 36  🌟 **Stars:** 5
 <h1 align="center">Hey there! I'm <span style="color:#fca311;">Vijeta Narwal</span> 👋</h1>
 <h3 align="center">Android Developer | Fullstack Explorer | Tech Enthusiast</h3>
 
